@@ -1,0 +1,26 @@
+buildscript{
+    repositories{
+        mavenCentral()
+    }
+    dependencies{
+        classpath 'org.springframework.boot:spring-boot-gradle-plugin:1.5.12.RELEASE'
+    }
+}
+
+plugins {
+    id 'java'
+    id "org.springframework.boot" version "1.5.12.RELEASE"
+}
+
+group 'com.teamtreehouse'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-thymeleaf'
+}

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\com",
+    "\\src\\main\\java\\com\\teamtreehouse",
+    "\\src\\main\\java\\com\\teamtreehouse\\giflib",
+    "\\src\\main\\java\\com\\teamtreehouse\\giflib\\controller",
+    "\\src\\main\\java\\com\\teamtreehouse\\giflib\\data",
+    "\\src\\main\\java\\com\\teamtreehouse\\giflib\\model"
+  ],
+  "SelectedNode": "\\gradle",
+  "PreviewInSolutionExplorer": false
+}
